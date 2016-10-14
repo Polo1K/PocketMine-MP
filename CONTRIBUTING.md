@@ -114,6 +114,7 @@ These labels may be applied to issues with bugs related to these, or pull reques
 	- `PE`: Related only to the Pocket Edition
 	- `beta`: Related only to a beta version of the game.
 	- `other`: Related only to an uncommon PE-compatible version of the client, such as VR Edition.
+- `Category: PHP` - Applied to issues caused by the PHP interpreter or its extensions.
 - `Category: Other` - Applied to issues which cannot be categorized with any of the above labels.
 
 #### Issues
